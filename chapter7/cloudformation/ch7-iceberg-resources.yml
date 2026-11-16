@@ -1,5 +1,5 @@
 AWSTemplateFormatVersion: '2010-09-09'
-Description: 'Chapter 6 - Lakehouse Resources for dbt-athena and dbt-glue'
+Description: 'Chapter 7 - Lakehouse Resources for dbt-athena and dbt-glue'
 
 Resources:
   IcebergS3Bucket:
